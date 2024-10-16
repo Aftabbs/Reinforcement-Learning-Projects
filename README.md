@@ -1,5 +1,11 @@
 # 3 Reinforcement Learning Algorithms Everybody Should Know!
 
+## Check out my Video Walkthrough here
+
+[![vid_screenshot.png](./media/vid_screenshot.png)](https://youtu.be/qTY4Rr-x5q0)
+
+Click play to watch :)
+
 <img src="./media/rlearning_2.png" width=600>
 
 Reinforcement learning is a type of machine learning where an *agent* learns to make decisions by interacting with an environment. The main components of reinforcement learning are:
