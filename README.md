@@ -1,10 +1,4 @@
-# 3 Reinforcement Learning Algorithms Everybody Should Know!
-
-## Check out my Video Walkthrough here
-
-[![vid_screenshot.png](./media/vid_screenshot.png)](https://youtu.be/qTY4Rr-x5q0)
-
-Click play to watch :)
+# Reinforcement Learning Algorithms Everybody Should Know!
 
 <img src="./media/rlearning_2.png" width=600>
 
